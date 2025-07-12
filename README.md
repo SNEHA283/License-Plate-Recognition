@@ -37,7 +37,7 @@ To recognize license plates from vehicle images even in challenging conditions l
 ├── docs/
 │   └── TEAM_15_PROJECT_REPORT.pdf
 ├── README.md
-└── .gitignore
+
 ```
 
 ## ⚙️ How It Works
